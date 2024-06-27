@@ -7,10 +7,13 @@
 👋 Hello! I am Sergio Reyes, a dedicated data analyst based in Spain. I leverage my expertise in data analysis and machine learning to solve complex problems and drive data-driven decision-making.
 
 ## Technical Skills
-- **Programming Languages:** Python
-- **Tools:** Jupyter Notebook, SQL, Excel
+- **Programming Languages:** Python, PySpark
+- **Tools:** Jupyter Notebook, SQL, NoSQL Excel
 
 ## Highlighted Academic Projects
+
+- **Impact Project:** Extracting data from DB to carry out cleaning to later on run ML models in order to identify what properties contact lenses should have in order to optimise production and allocate resources & time more efficiently.
+
 - **Machine Learning Group Assignment:** Developed predictive models to classify and analyze large datasets.
 - **Risk & Fraud Analytics:** Implemented fraud detection techniques using machine learning algorithms.
 - **Modern Data Analysis:** Conducted data analysis and visualization to extract key insights and optimize business processes.
