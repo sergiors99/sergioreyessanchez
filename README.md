@@ -10,7 +10,7 @@
 - **Programming Languages:** Python
 - **Tools:** Jupyter Notebook, SQL, Excel
 
-## Highlighted Projects
+## Highlighted Academic Projects
 - **Machine Learning Group Assignment:** Developed predictive models to classify and analyze large datasets.
 - **Risk & Fraud Analytics:** Implemented fraud detection techniques using machine learning algorithms.
 - **Modern Data Analysis:** Conducted data analysis and visualization to extract key insights and optimize business processes.
